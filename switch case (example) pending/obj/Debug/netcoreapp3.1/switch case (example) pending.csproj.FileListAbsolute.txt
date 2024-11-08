@@ -1,0 +1,13 @@
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.csprojAssemblyReference.cache
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.AssemblyInfoInputs.cache
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.AssemblyInfo.cs
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.csproj.CoreCompileInputs.cache
+E:\C# Programs\switch case (example) pending\bin\Debug\netcoreapp3.1\switch case (example) pending.exe
+E:\C# Programs\switch case (example) pending\bin\Debug\netcoreapp3.1\switch case (example) pending.deps.json
+E:\C# Programs\switch case (example) pending\bin\Debug\netcoreapp3.1\switch case (example) pending.runtimeconfig.json
+E:\C# Programs\switch case (example) pending\bin\Debug\netcoreapp3.1\switch case (example) pending.runtimeconfig.dev.json
+E:\C# Programs\switch case (example) pending\bin\Debug\netcoreapp3.1\switch case (example) pending.dll
+E:\C# Programs\switch case (example) pending\bin\Debug\netcoreapp3.1\switch case (example) pending.pdb
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.dll
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.pdb
+E:\C# Programs\switch case (example) pending\obj\Debug\netcoreapp3.1\switch case (example) pending.genruntimeconfig.cache

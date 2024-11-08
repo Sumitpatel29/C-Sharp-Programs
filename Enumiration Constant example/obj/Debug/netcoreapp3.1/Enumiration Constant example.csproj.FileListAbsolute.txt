@@ -1,0 +1,13 @@
+e:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.csprojAssemblyReference.cache
+e:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.AssemblyInfoInputs.cache
+e:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.AssemblyInfo.cs
+e:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.csproj.CoreCompileInputs.cache
+E:\C# Programs\Enumiration Constant example\bin\Debug\netcoreapp3.1\Enumiration Constant example.exe
+E:\C# Programs\Enumiration Constant example\bin\Debug\netcoreapp3.1\Enumiration Constant example.deps.json
+E:\C# Programs\Enumiration Constant example\bin\Debug\netcoreapp3.1\Enumiration Constant example.runtimeconfig.json
+E:\C# Programs\Enumiration Constant example\bin\Debug\netcoreapp3.1\Enumiration Constant example.runtimeconfig.dev.json
+E:\C# Programs\Enumiration Constant example\bin\Debug\netcoreapp3.1\Enumiration Constant example.dll
+E:\C# Programs\Enumiration Constant example\bin\Debug\netcoreapp3.1\Enumiration Constant example.pdb
+E:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.dll
+E:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.pdb
+E:\C# Programs\Enumiration Constant example\obj\Debug\netcoreapp3.1\Enumiration Constant example.genruntimeconfig.cache

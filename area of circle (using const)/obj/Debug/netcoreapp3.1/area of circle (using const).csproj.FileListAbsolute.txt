@@ -1,0 +1,13 @@
+E:\C# Programs\area of circle (using const)\bin\Debug\netcoreapp3.1\area of circle (using const).exe
+E:\C# Programs\area of circle (using const)\bin\Debug\netcoreapp3.1\area of circle (using const).deps.json
+E:\C# Programs\area of circle (using const)\bin\Debug\netcoreapp3.1\area of circle (using const).runtimeconfig.json
+E:\C# Programs\area of circle (using const)\bin\Debug\netcoreapp3.1\area of circle (using const).runtimeconfig.dev.json
+E:\C# Programs\area of circle (using const)\bin\Debug\netcoreapp3.1\area of circle (using const).dll
+E:\C# Programs\area of circle (using const)\bin\Debug\netcoreapp3.1\area of circle (using const).pdb
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).csprojAssemblyReference.cache
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).AssemblyInfoInputs.cache
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).AssemblyInfo.cs
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).csproj.CoreCompileInputs.cache
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).dll
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).pdb
+E:\C# Programs\area of circle (using const)\obj\Debug\netcoreapp3.1\area of circle (using const).genruntimeconfig.cache

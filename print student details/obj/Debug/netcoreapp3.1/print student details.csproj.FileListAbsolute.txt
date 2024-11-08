@@ -1,0 +1,13 @@
+E:\C# Programs\print student details\bin\Debug\netcoreapp3.1\print student details.exe
+E:\C# Programs\print student details\bin\Debug\netcoreapp3.1\print student details.deps.json
+E:\C# Programs\print student details\bin\Debug\netcoreapp3.1\print student details.runtimeconfig.json
+E:\C# Programs\print student details\bin\Debug\netcoreapp3.1\print student details.runtimeconfig.dev.json
+E:\C# Programs\print student details\bin\Debug\netcoreapp3.1\print student details.dll
+E:\C# Programs\print student details\bin\Debug\netcoreapp3.1\print student details.pdb
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.csprojAssemblyReference.cache
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.AssemblyInfoInputs.cache
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.AssemblyInfo.cs
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.csproj.CoreCompileInputs.cache
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.dll
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.pdb
+E:\C# Programs\print student details\obj\Debug\netcoreapp3.1\print student details.genruntimeconfig.cache
