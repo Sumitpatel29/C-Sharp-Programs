@@ -1,0 +1,13 @@
+E:\C# Programs\Array and String\traverse a character array\bin\Debug\netcoreapp3.1\traverse a character array.exe
+E:\C# Programs\Array and String\traverse a character array\bin\Debug\netcoreapp3.1\traverse a character array.deps.json
+E:\C# Programs\Array and String\traverse a character array\bin\Debug\netcoreapp3.1\traverse a character array.runtimeconfig.json
+E:\C# Programs\Array and String\traverse a character array\bin\Debug\netcoreapp3.1\traverse a character array.runtimeconfig.dev.json
+E:\C# Programs\Array and String\traverse a character array\bin\Debug\netcoreapp3.1\traverse a character array.dll
+E:\C# Programs\Array and String\traverse a character array\bin\Debug\netcoreapp3.1\traverse a character array.pdb
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.csprojAssemblyReference.cache
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.AssemblyInfoInputs.cache
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.AssemblyInfo.cs
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.csproj.CoreCompileInputs.cache
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.dll
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.pdb
+E:\C# Programs\Array and String\traverse a character array\obj\Debug\netcoreapp3.1\traverse a character array.genruntimeconfig.cache

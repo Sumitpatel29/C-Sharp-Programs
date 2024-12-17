@@ -1,0 +1,13 @@
+E:\C# Programs\Array and String\Largest element in array\bin\Debug\netcoreapp3.1\Largest element in array.exe
+E:\C# Programs\Array and String\Largest element in array\bin\Debug\netcoreapp3.1\Largest element in array.deps.json
+E:\C# Programs\Array and String\Largest element in array\bin\Debug\netcoreapp3.1\Largest element in array.runtimeconfig.json
+E:\C# Programs\Array and String\Largest element in array\bin\Debug\netcoreapp3.1\Largest element in array.runtimeconfig.dev.json
+E:\C# Programs\Array and String\Largest element in array\bin\Debug\netcoreapp3.1\Largest element in array.dll
+E:\C# Programs\Array and String\Largest element in array\bin\Debug\netcoreapp3.1\Largest element in array.pdb
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.csprojAssemblyReference.cache
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.AssemblyInfoInputs.cache
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.AssemblyInfo.cs
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.csproj.CoreCompileInputs.cache
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.dll
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.pdb
+E:\C# Programs\Array and String\Largest element in array\obj\Debug\netcoreapp3.1\Largest element in array.genruntimeconfig.cache

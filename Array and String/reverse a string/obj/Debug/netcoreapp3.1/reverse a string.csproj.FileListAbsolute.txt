@@ -1,0 +1,13 @@
+E:\C# Programs\Array and String\reverse a string\bin\Debug\netcoreapp3.1\reverse a string.exe
+E:\C# Programs\Array and String\reverse a string\bin\Debug\netcoreapp3.1\reverse a string.deps.json
+E:\C# Programs\Array and String\reverse a string\bin\Debug\netcoreapp3.1\reverse a string.runtimeconfig.json
+E:\C# Programs\Array and String\reverse a string\bin\Debug\netcoreapp3.1\reverse a string.runtimeconfig.dev.json
+E:\C# Programs\Array and String\reverse a string\bin\Debug\netcoreapp3.1\reverse a string.dll
+E:\C# Programs\Array and String\reverse a string\bin\Debug\netcoreapp3.1\reverse a string.pdb
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.csprojAssemblyReference.cache
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.AssemblyInfoInputs.cache
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.AssemblyInfo.cs
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.csproj.CoreCompileInputs.cache
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.dll
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.pdb
+E:\C# Programs\Array and String\reverse a string\obj\Debug\netcoreapp3.1\reverse a string.genruntimeconfig.cache

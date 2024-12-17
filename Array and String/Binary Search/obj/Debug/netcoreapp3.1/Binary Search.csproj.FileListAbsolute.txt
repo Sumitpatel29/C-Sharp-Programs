@@ -1,0 +1,13 @@
+E:\C# Programs\Array and String\Binary Search\bin\Debug\netcoreapp3.1\Binary Search.exe
+E:\C# Programs\Array and String\Binary Search\bin\Debug\netcoreapp3.1\Binary Search.deps.json
+E:\C# Programs\Array and String\Binary Search\bin\Debug\netcoreapp3.1\Binary Search.runtimeconfig.json
+E:\C# Programs\Array and String\Binary Search\bin\Debug\netcoreapp3.1\Binary Search.runtimeconfig.dev.json
+E:\C# Programs\Array and String\Binary Search\bin\Debug\netcoreapp3.1\Binary Search.dll
+E:\C# Programs\Array and String\Binary Search\bin\Debug\netcoreapp3.1\Binary Search.pdb
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.csprojAssemblyReference.cache
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.AssemblyInfoInputs.cache
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.AssemblyInfo.cs
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.csproj.CoreCompileInputs.cache
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.dll
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.pdb
+E:\C# Programs\Array and String\Binary Search\obj\Debug\netcoreapp3.1\Binary Search.genruntimeconfig.cache
